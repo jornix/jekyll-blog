@@ -1,0 +1,8 @@
+title: En liten test-blog
+author: Jørn Pedersen
+baseurl: /blog/
+exclude:
+  -README.md
+  - .ruby-version
+  - Gemfile
+  - Gemfile.lock
